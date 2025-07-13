@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Lina
 
-<!--
-**codekittysnackbyte/codekittysnackbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a Product Manager passionate about building AI-powered tools that make teams more efficient and experiences more intuitive.
 
-Here are some ideas to get you started:
+🧠 Currently exploring:
+- 🤖 Generative AI + developer workflows
+- 📊 Automating operations with low-friction UX
+- 🛠️ Tools that reduce busywork and unlock creativity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tools I love working with:
+- GitHub, Notion, Figma, Mixpanel
+- Salesforce, Hugging Face, AWS
+
+💡 PM Strengths:
+- Turning user pain points into shippable features
+- Bridging tech and business with clarity
+- Bringing focus and structure to ambiguity
+
+---
+
+📫 Let’s connect:  
+[LinkedIn](https://www.linkedin.com/in/lina-hamid-534883a1/)
